@@ -22,3 +22,8 @@
 | 🌐 **Website**     | [nico-labo748.dev](https://www.nico-labo748.dev)        |
 | 🐦 **X (Twitter)** | [@nicolabo748](https://x.com/@nicolabo475658)         |
 | ✒️ **Qiita**       | [@nico0748](https://qiita.com/nico0748)             |
+
+## Langurages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nico0748&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+## Titles
+<img src="https://github-profile-trophy.vercel.app/?username=nico0748&theme=juicyfresh&no-bg=true" />
