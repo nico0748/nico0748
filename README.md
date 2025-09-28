@@ -10,10 +10,10 @@
 
 ##  Interests
 
-* Dirt / Flutter
-* Swift
-* Unity / UnrealEngine
-* Blender / Maya
+* **Dirt / Flutter**
+* **Swift**
+* **Unity / UnrealEngine**
+* **Blender / Maya**
 
 ##  Links
 
