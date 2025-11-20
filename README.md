@@ -19,7 +19,7 @@
 
 | Type           | URL                                       |
 | -------------- | ----------------------------------------- |
-| 🌐 **Website**     | [nico-labo748.dev](https://www.nico-labo748.dev)        |
+| 🌐 **Website**     | [nico-labo748.dev]([https://www.nico-labo748.dev/portfolio](https://www.nico-labo748.dev/portfolio))        |
 | 🐦 **X (Twitter)** | [@nicolabo748](https://x.com/@nicolabo475658)         |
 | ✒️ **Qiita**       | [@nico0748](https://qiita.com/nico0748)             |
 
